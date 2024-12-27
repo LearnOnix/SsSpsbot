@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@sssps18"> 
-    <img src="https://github.com/LearnOnix/SsSpsbot/blob/master/Botimages/bot_image.jpg" alt="SsSps Bot" height="300"> 
+    <img src="https://github.com/LearnOnix/SsSpsbot/blob/main/Botimages/bot_image.jpg" alt="SsSps Bot" height="300"> 
   </a> 
 </div>
 
