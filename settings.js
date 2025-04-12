@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'My Sticker Pack',
+  packname: 'My Stickers Pack',
   author: 'My Bot',
   botName: "SsSps Bot",
   botOwner: 'Professor', // Your name
