@@ -424,7 +424,7 @@ async function startBot() {
 
       const botNumber = sock.user.id;
       await sock.sendMessage(botNumber, {
-        text: '🎉 Congrats! The bot has been connected successfully.\n 🤘🏻https://www.whatsapp.com/channel/0029VakQoS3LSmbdEpqNrc2s'
+        text: '🎉 Congrats! The bot has been connected successfully.\n 🤘🏻https://www.whatsapp.com/channel/0029VakQoS3LSmbdEpqNrcs'
       });
     }
   });
